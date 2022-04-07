@@ -123,3 +123,4 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+ - jemoji
