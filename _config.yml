@@ -48,7 +48,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-   I find it very reductive and boring to try to describe myself with an "About me", write me and let's talk. Maybe with a :beer:
+<p align="center">
+   I find it very reductive and boring to try to describe myself with an "About me".<br>Write me and let's talk.<br>Maybe with a :beer:
+</p>
+
 
 content:
   - title: Projects # Title for the section
