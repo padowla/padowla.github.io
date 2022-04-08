@@ -12,7 +12,7 @@ email: samuelepadula@gmail.com
 website: https://padowla.github.io/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 #twitter_username: facespics
@@ -30,10 +30,10 @@ linkedin_username: ilucano
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 #about_content: | # this will include new lines to allow paragraphs
-about_content: <p style="text-align:center;color:black;">I find it very reductive and boring to try to describe myself with an "About me".<br>Write me and let's talk.<br>Maybe with a :beer:</p>
+about_content: <p style="text-align:center;">I find it very reductive and boring to try to describe myself with an "About me".<br>Write me and let's talk.<br>Maybe with a :beer:</p>
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
