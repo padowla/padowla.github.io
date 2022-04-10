@@ -73,41 +73,82 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        title: iCubed s.r.l
+        link: icubed.it
+        link_text: icubed.it
+        sub_title: ICT Consultant - Cloud
+        caption: May 2021 - Present
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            Design, management and maintenance of cloud and on-premises infrastructure for a leading European energy company. Azure IaaS deployment, Azure IoT, management and deployment with ARM templates, Powershell, MSSQL Server, cost and resource management, Azure Kubernetes Service and migration from RedHat OpenShif (AKS over HCI), Azure Container Registry, RabbitMQ
+    
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: LantechLongwave s.p.a
+        link: https://www.lantechlongwave.it/
+        link_text: www.lantechlongwave.it
+        sub_title: Junior Network Engineer
+        caption: Jan 2021 - May 2021
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Operator of a Network Operation Center to support public and private companies. Maintenance and management of routers, switches, access points (Cisco, Aruba, HP, PaloAlto, Fortinet). Network analysis and backup, Documentation and reporting, Configuration and maintenance of Icinga, Neteye and NeDi monitoring tools for the new NOC Platform. Data integration and analysis via InfluxDB and Grafana, Unix/Linux Systems (CentOS, RedHat Enterprise)
+ 
 
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Servizidoc s.r.l.s
+        link: https://www.servizidoc.com/
+        link_text: www.servizidoc.com
+        sub_title: Junior Network Engineer
+        caption: Jan 2016 - Jan 2018
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            IT operations and support. Network mainteinance and Hardware and software support
+            
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: Università di Pisa
+        caption: Nov 2021 - Sep 2021
+        sub_title: Master ’s Degree in Computer Security LM-66
+        #quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          Exams obtained: 3/12 [Data and system security,Language-based technology for security,Systems and Languages for Informatics] <br> CFU achieved: 30/120
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - layout: left
+        title: eForhum Milano
+        caption: Oct 2020 - Nov 2020
+        sub_title: Cisco Networking Academy - CCNAv7
+        #quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          CCNA 200- 301 Talent con percorso di certificazione offerto da Lantech Longwave 
+ 
+      - layout: left
+        title: Università degli studi di Ferrara
+        caption: Sep 2017 - Sep 2020
+        sub_title: Bachelor’s Degree in Computer and Electronic Engineering L-8 (Web systems)
+        #quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          Evaluation: 110/110 <br> Thesis: Monitoring of an IT infrastructure by means of Open Source technologies: study and simulation
+
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my interests in networks, security and computer engineering some of my other interests and hobbies are:
+      - Trekking and bushcraft
+      - Volunteering at magazzinisociali.com
+      - DIY and handmade
 
-      Look at this cool image  
-      ![Trees](/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
