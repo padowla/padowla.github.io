@@ -159,3 +159,5 @@ sass:
 plugins:
  - jekyll-seo-tag
  - jemoji
+
+theme: jekyll-theme-hacker
