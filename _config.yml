@@ -82,8 +82,7 @@ content:
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             Design, management and maintenance of cloud and on-premises infrastructure for a leading European energy company. Azure IaaS deployment, Azure IoT, management and deployment with ARM templates, Powershell, MSSQL Server, cost and resource management, Azure Kubernetes Service and migration from RedHat OpenShif (AKS over HCI), Azure Container Registry, RabbitMQ
-    
-    content:
+
       - layout: left
         title: LantechLongwave s.p.a
         link: https://www.lantechlongwave.it/
@@ -95,7 +94,6 @@ content:
         description: | # this will include new lines to allow paragraphs
             Operator of a Network Operation Center to support public and private companies. Maintenance and management of routers, switches, access points (Cisco, Aruba, HP, PaloAlto, Fortinet). Network analysis and backup, Documentation and reporting, Configuration and maintenance of Icinga, Neteye and NeDi monitoring tools for the new NOC Platform. Data integration and analysis via InfluxDB and Grafana, Unix/Linux Systems (CentOS, RedHat Enterprise)
  
-    content:
       - layout: left
         title: Servizidoc s.r.l.s
         link: https://www.servizidoc.com/
