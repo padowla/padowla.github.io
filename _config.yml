@@ -115,8 +115,8 @@ content:
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          Exams obtained: 3/12 
-          [Data and system security:<br><br>
+          Exams obtained: 3/12 | CFU achieved: 30/120<br>
+          [Data and system security:<br>
             - elements of computer security (threats, attacks, security requirements and defense strategies) <br>
             - elements of authentication and access control<br>
             - security in databases and datacenters <br>
@@ -132,8 +132,17 @@ content:
             - Information flow security Lab: JSflow <br>
             - Security in Web Application <br>
             - Formal methods for Security: type systems and static analysis<br>
-            - Formal Method for security Lab<br><br>
-          Systems and Languages for Informatics] <br> CFU achieved: 30/120
+            - Formal Method for security Lab<br>
+          Systems and Languages for Informatics <br>
+            - Introduction to principles of programming languages;
+            - Introduction to problem solving;
+            - Introduction to program complexity.
+            - Constructs, functions, data structures and pointers in C
+            - Posix library and PThread
+            - Computer Organization. Interrupt Mechanism. Assembly Language. Operating System Organization. Processes and Process Management. Memory Management, Virtual Memory. I/O Management. File System. Databases. DBMS. SQL Language.<br>
+            - Point-to Point links. PPP Protocol. Local Area Networks (LANs). Ethernet. Switched Networks. Virtual LANs. Internet. IP Protocol, IP Addresses, Datagram Forwarding. Transport Protocols (UDP, TCP). Wireless Networks and Mobile Computing.<br>
+            - Socket-based Interface. Client/Server and P2P Applications. Popular Internet Applications (Web, E-mail, P2P Content Sharing, P2P)<br>
+          ] <br> 
 
       - layout: left
         title: eForhum Milano
