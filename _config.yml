@@ -117,7 +117,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Exams obtained: 3/12<br>
           CFU achieved: 30/120<br><br>
-          # Data and system security:<br>
+          # Data and system security:<br><br> 
             - elements of computer security (threats, attacks, security requirements and defense strategies) <br>
             - elements of authentication and access control<br>
             - security in databases and datacenters <br>
@@ -133,7 +133,7 @@ content:
             - Information flow security Lab: JSflow <br>
             - Security in Web Application <br>
             - Formal methods for Security: type systems and static analysis<br>
-            - Formal Method for security Lab<br>
+            - Formal Method for security Lab<br><br> 
          # Systems and Languages for Informatics:<br><br>
             - Introduction to principles of programming languages;
             - Introduction to problem solving;
