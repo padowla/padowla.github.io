@@ -81,7 +81,7 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Design, management and maintenance of cloud and on-premises infrastructure for a leading European energy company. Azure IaaS deployment, Azure IoT, management and deployment with ARM templates, Powershell, MSSQL Server, cost and resource management, Azure Kubernetes Service and migration from RedHat OpenShif (AKS over HCI), Azure Container Registry, RabbitMQ
+            Design, management and maintenance of cloud and on-premises infrastructure for a leading European energy company. Azure IaaS deployment, Azure IoT, management and deployment with ARM templates, Powershell, MSSQL Server, cost and resource management, Azure Kubernetes Service and migration from RedHat OpenShif (AKS over HCI), Azure Container Registry, RabbitMQ, Managed SQL instance on Edge 
 
       - layout: left
         title: LantechLongwave s.p.a
@@ -115,7 +115,24 @@ content:
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          Exams obtained: 3/12 [Data and system security,Language-based technology for security,Systems and Languages for Informatics] <br> CFU achieved: 30/120
+          Exams obtained: 3/12 [Data and system security:<br>
+          elements of computer security (threats, attacks, security requirements and defense strategies) <br>
+          elements of authentication and access control<br>
+          security in databases and datacenters <br>
+          attacks (malware, buffer overflow, denial of service,...)<br>
+          operative systems security (virtualization, case studies Linux, Windows, Android)<br>
+          security in mobile and cyber-physical systems<br>
+          aspects of management of computer security<br>
+          Language-based technology for security:<br> 
+          Memory corruption flaws: buffer overflow, stack overflow, code injection 
+          Language-based Security: Java stack inspection and access control, certified compilation, typed assembler languace, code obfuscation
+          Language-based Security Lab 
+          Information flow security: integrity, confidentiality, hidden channels. Type-based information flow
+          Information flow security Lab: JSflow 
+          Security in Web Application 
+          Formal methods for Security: type systems and static analysis
+          Formal Method for security Lab<br>
+          Systems and Languages for Informatics] <br> CFU achieved: 30/120
 
       - layout: left
         title: eForhum Milano
