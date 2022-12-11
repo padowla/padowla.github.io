@@ -118,7 +118,41 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-
+      - layout: left
+        title: Università di Pisa
+        caption: Nov 2021 - Sep 2021
+        sub_title: Master’s Degree in Computer Security LM-66 (Interrupted)
+        #quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+           Exams obtained: 3/12<br>
+           CFU achieved: 30/120<br><br>
+           # Data and system security:<br><br> 
+             - elements of computer security (threats, attacks, security requirements and defense strategies) <br>
+             - elements of authentication and access control<br>
+             - security in databases and datacenters <br>
+             - attacks (malware, buffer overflow, denial of service,...)<br>
+             - operative systems security (virtualization, case studies Linux, Windows, Android)<br>
+             - security in mobile and cyber-physical systems<br>
+             - aspects of management of computer security<br><br>
+          # Language-based technology for security:<br><br> 
+             - Memory corruption flaws: buffer overflow, stack overflow, code injection <br>
+             - Language-based Security: Java stack inspection and access control, certified compilation, typed assembler languace, code obfuscation<br>
+             - Language-based Security Lab <br>
+             - Information flow security: integrity, confidentiality, hidden channels. Type-based information flow<br>
+             - Information flow security Lab: JSflow <br>
+             - Security in Web Application <br>
+             - Formal methods for Security: type systems and static analysis<br>
+             - Formal Method for security Lab<br><br> 
+          # Systems and Languages for Informatics:<br><br>
+             - Introduction to principles of programming languages;
+             - Introduction to problem solving;
+             - Introduction to program complexity.
+             - Constructs, functions, data structures and pointers in C
+             - Posix library and PThread
+             - Computer Organization. Interrupt Mechanism. Assembly Language. Operating System Organization. Processes and Process Management. Memory Management, Virtual Memory. I/O Management. File System. Databases. DBMS. SQL Language.<br>
+             - Point-to Point links. PPP Protocol. Local Area Networks (LANs). Ethernet. Switched Networks. Virtual LANs. Internet. IP Protocol, IP Addresses, Datagram Forwarding. Transport Protocols (UDP, TCP). Wireless Networks and Mobile Computing.<br>
+             - Socket-based Interface. Client/Server and P2P Applications <br>
       - layout: left
         title: eForhum Milano
         caption: Oct 2020 - Nov 2020
