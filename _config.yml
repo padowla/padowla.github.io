@@ -152,14 +152,14 @@ content:
             - Point-to Point links. PPP Protocol. Local Area Networks (LANs). Ethernet. Switched Networks. Virtual LANs. Internet. IP Protocol, IP Addresses, Datagram Forwarding. Transport Protocols (UDP, TCP). Wireless Networks and Mobile Computing.<br>
             - Socket-based Interface. Client/Server and P2P Applications <br>
              
-      - layout: left
+      - layout: top-middle
         title: eForhum Milano
         caption: Oct 2020 - Nov 2020
         sub_title: Cisco Networking Academy - CCNAv7
         description: | # this will include new lines to allow paragraphs
           CCNA 200- 301 Talent con percorso di certificazione offerto da Lantech Longwave 
  
-      - layout: left
+      - layout: top-middle
         title: Università degli studi di Ferrara
         caption: Sep 2017 - Sep 2020
         sub_title: Bachelor’s Degree in Computer and Electronic Engineering L-8 (Web systems)
