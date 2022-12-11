@@ -17,11 +17,11 @@ darkmode: true
 # Social links
 #twitter_username: facespics
 github_username:  padowla
-# stackoverflow_username: "00000001"
+# stackoverflow_username: "00000001
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-#instagram_username: jameswgrant
+# instagram_username: jameswgrant
 linkedin_username: ilucano
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -48,7 +48,7 @@ linkedin_username: ilucano
 # about_title: About Me
 about_profile_image: images/profile.jpg
 #about_content: | # this will include new lines to allow paragraphs
-about_content: <p style="text-align:center;">I find it very boring to try to describe myself with an "About me".<br>Write me and let's talk.<br>Maybe with a :beer:</p>
+about_content: <p style='text-align:center;'>I find it very boring to try to describe myself with an 'About me'.<br>Write me and let's talk.<br>Maybe with a :beer:</p>
 content:
 #  - title: Projects # Title for the section
 #    layout: list # Type of content section (list/text)
@@ -125,34 +125,34 @@ content:
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          Exams obtained: 3/12<br>
-          CFU achieved: 30/120<br><br>
-          # Data and system security:<br><br> 
-            - elements of computer security (threats, attacks, security requirements and defense strategies) <br>
-            - elements of authentication and access control<br>
-            - security in databases and datacenters <br>
-            - attacks (malware, buffer overflow, denial of service,...)<br>
-            - operative systems security (virtualization, case studies Linux, Windows, Android)<br>
-            - security in mobile and cyber-physical systems<br>
-            - aspects of management of computer security<br><br>
-         # Language-based technology for security:<br><br> 
-            - Memory corruption flaws: buffer overflow, stack overflow, code injection <br>
-            - Language-based Security: Java stack inspection and access control, certified compilation, typed assembler languace, code obfuscation<br>
-            - Language-based Security Lab <br>
-            - Information flow security: integrity, confidentiality, hidden channels. Type-based information flow<br>
-            - Information flow security Lab: JSflow <br>
-            - Security in Web Application <br>
-            - Formal methods for Security: type systems and static analysis<br>
-            - Formal Method for security Lab<br><br> 
-         # Systems and Languages for Informatics:<br><br>
-            - Introduction to principles of programming languages;
-            - Introduction to problem solving;
-            - Introduction to program complexity.
-            - Constructs, functions, data structures and pointers in C
-            - Posix library and PThread
-            - Computer Organization. Interrupt Mechanism. Assembly Language. Operating System Organization. Processes and Process Management. Memory Management, Virtual Memory. I/O Management. File System. Databases. DBMS. SQL Language.<br>
-            - Point-to Point links. PPP Protocol. Local Area Networks (LANs). Ethernet. Switched Networks. Virtual LANs. Internet. IP Protocol, IP Addresses, Datagram Forwarding. Transport Protocols (UDP, TCP). Wireless Networks and Mobile Computing.<br>
-            - Socket-based Interface. Client/Server and P2P Applications <br>
+           Exams obtained: 3/12<br>
+           CFU achieved: 30/120<br><br>
+           # Data and system security:<br><br> 
+             - elements of computer security (threats, attacks, security requirements and defense strategies) <br>
+             - elements of authentication and access control<br>
+             - security in databases and datacenters <br>
+             - attacks (malware, buffer overflow, denial of service,...)<br>
+             - operative systems security (virtualization, case studies Linux, Windows, Android)<br>
+             - security in mobile and cyber-physical systems<br>
+             - aspects of management of computer security<br><br>
+          # Language-based technology for security:<br><br> 
+             - Memory corruption flaws: buffer overflow, stack overflow, code injection <br>
+             - Language-based Security: Java stack inspection and access control, certified compilation, typed assembler languace, code obfuscation<br>
+             - Language-based Security Lab <br>
+             - Information flow security: integrity, confidentiality, hidden channels. Type-based information flow<br>
+             - Information flow security Lab: JSflow <br>
+             - Security in Web Application <br>
+             - Formal methods for Security: type systems and static analysis<br>
+             - Formal Method for security Lab<br><br> 
+          # Systems and Languages for Informatics:<br><br>
+             - Introduction to principles of programming languages;
+             - Introduction to problem solving;
+             - Introduction to program complexity.
+             - Constructs, functions, data structures and pointers in C
+             - Posix library and PThread
+             - Computer Organization. Interrupt Mechanism. Assembly Language. Operating System Organization. Processes and Process Management. Memory Management, Virtual Memory. I/O Management. File System. Databases. DBMS. SQL Language.<br>
+             - Point-to Point links. PPP Protocol. Local Area Networks (LANs). Ethernet. Switched Networks. Virtual LANs. Internet. IP Protocol, IP Addresses, Datagram Forwarding. Transport Protocols (UDP, TCP). Wireless Networks and Mobile Computing.<br>
+             - Socket-based Interface. Client/Server and P2P Applications <br>
 
       - layout: left
         title: eForhum Milano
