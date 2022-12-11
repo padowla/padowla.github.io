@@ -81,10 +81,7 @@ content:
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             Azure Network Security project for a major European player in the steel industry. Experience with Azure Sentinel and Microsoft Defender for Cloud, Apps, Identities and IoT. Active Directory Domain Service/Azure Active Directory administration. 
-            
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
+
       - layout: left
         title: iCubed s.r.l
         link: icubed.it
