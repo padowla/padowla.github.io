@@ -68,7 +68,20 @@ content:
 #          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
 #        description: | # this will include new lines to allow paragraphs
 #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: iCubed s.r.l
+        link: icubed.it
+        link_text: icubed.it
+        sub_title: ICT Consultant - Cloud Security
+        caption: October 2021 - Present
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Azure Network Security project for a major European player in the steel industry. Experience with Azure Sentinel and Microsoft Defender for Cloud, Apps, Identities and IoT. Active Directory Domain Service/Azure Active Directory administration. 
+            
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
