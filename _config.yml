@@ -125,7 +125,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Exams obtained: 3/12<br>
           CFU achieved: 30/120<br><br>
-          # Data and system security:<br><br> 
+           ### Data and system security:<br><br> 
             - elements of computer security (threats, attacks, security requirements and defense strategies) <br>
             - elements of authentication and access control<br>
             - security in databases and datacenters <br>
@@ -133,7 +133,7 @@ content:
             - operative systems security (virtualization, case studies Linux, Windows, Android)<br>
             - security in mobile and cyber-physical systems<br>
             - aspects of management of computer security<br><br>
-          # Language-based technology for security:<br><br> 
+          ### Language-based technology for security:<br><br> 
             - Memory corruption flaws: buffer overflow, stack overflow, code injection <br>
             - Language-based Security: Java stack inspection and access control, certified compilation, typed assembler languace, code obfuscation<br>
             - Language-based Security Lab <br>
@@ -142,7 +142,7 @@ content:
             - Security in Web Application <br>
             - Formal methods for Security: type systems and static analysis<br>
             - Formal Method for security Lab<br><br> 
-          # Systems and Languages for Informatics:<br><br>
+          ### Systems and Languages for Informatics:<br><br>
             - Introduction to principles of programming languages;
             - Introduction to problem solving;
             - Introduction to program complexity.
