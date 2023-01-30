@@ -107,8 +107,8 @@ content:
       - layout: left
         title: Servizidoc s.r.l.s
         link: https://www.servizidoc.com/
-        link_text: www.servizidoc.com
-        sub_title: Junior Network Engineer
+        link_text: servizidoc.com
+        sub_title: IT Consultant
         caption: Jan 2016 - Jan 2018
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
@@ -149,14 +149,14 @@ content:
           Exams obtained: 3/12<br>
           CFU achieved: 30/120<br><br>
           Exams details:<br><br>
-          [+] Data and system security:<br>
-            - elements of computer security (threats, attacks, security requirements and defense strategies) <br>
-            - elements of authentication and access control<br>
-            - security in databases and datacenters <br>
-            - attacks (malware, buffer overflow, denial of service,...)<br>
-            - operative systems security (virtualization, case studies Linux, Windows, Android)<br>
-            - security in mobile and cyber-physical systems<br>
-            - aspects of management of computer security<br><br>
+            [+] Data and system security:<br>
+              - elements of computer security (threats, attacks, security requirements and defense strategies) <br>
+              - elements of authentication and access control<br>
+              - security in databases and datacenters <br>
+              - attacks (malware, buffer overflow, denial of service,...)<br>
+              - operative systems security (virtualization, case studies Linux, Windows, Android)<br>
+              - security in mobile and cyber-physical systems<br>
+              - aspects of management of computer security<br><br>
           [+] Language-based technology for security:<br>
             - Memory corruption flaws: buffer overflow, stack overflow, code injection <br>
             - Language-based Security: Java stack inspection and access control, certified compilation, typed assembler languace, code obfuscation<br>
