@@ -157,24 +157,24 @@ content:
               - operative systems security (virtualization, case studies Linux, Windows, Android)<br>
               - security in mobile and cyber-physical systems<br>
               - aspects of management of computer security<br><br>
-          [+] Language-based technology for security:<br>
-            - Memory corruption flaws: buffer overflow, stack overflow, code injection <br>
-            - Language-based Security: Java stack inspection and access control, certified compilation, typed assembler languace, code obfuscation<br>
-            - Language-based Security Lab <br>
-            - Information flow security: integrity, confidentiality, hidden channels. Type-based information flow<br>
-            - Information flow security Lab: JSflow <br>
-            - Security in Web Application <br>
-            - Formal methods for Security: type systems and static analysis<br>
-            - Formal Method for security Lab<br><br> 
-          [+] Systems and Languages for Informatics:<br>
-            - Introduction to principles of programming languages;
-            - Introduction to problem solving;
-            - Introduction to program complexity.
-            - Constructs, functions, data structures and pointers in C
-            - Posix library and PThread
-            - Computer Organization. Interrupt Mechanism. Assembly Language. Operating System Organization. Processes and Process Management. Memory Management, Virtual Memory. I/O Management. File System. Databases. DBMS. SQL Language.<br>
-            - Point-to Point links. PPP Protocol. Local Area Networks (LANs). Ethernet. Switched Networks. Virtual LANs. Internet. IP Protocol, IP Addresses, Datagram Forwarding. Transport Protocols (UDP, TCP). Wireless Networks and Mobile Computing.<br>
-            - Socket-based Interface. Client/Server and P2P Applications <br>
+            [+] Language-based technology for security:<br>
+              - Memory corruption flaws: buffer overflow, stack overflow, code injection <br>
+              - Language-based Security: Java stack inspection and access control, certified compilation, typed assembler languace, code obfuscation<br>
+              - Language-based Security Lab <br>
+              - Information flow security: integrity, confidentiality, hidden channels. Type-based information flow<br>
+              - Information flow security Lab: JSflow <br>
+              - Security in Web Application <br>
+              - Formal methods for Security: type systems and static analysis<br>
+              - Formal Method for security Lab<br><br> 
+            [+] Systems and Languages for Informatics:<br>
+              - Introduction to principles of programming languages;
+              - Introduction to problem solving;
+              - Introduction to program complexity.
+              - Constructs, functions, data structures and pointers in C
+              - Posix library and PThread
+              - Computer Organization. Interrupt Mechanism. Assembly Language. Operating System Organization. Processes and Process Management. Memory Management, Virtual Memory. I/O Management. File System. Databases. DBMS. SQL Language.<br>
+              - Point-to Point links. PPP Protocol. Local Area Networks (LANs). Ethernet. Switched Networks. Virtual LANs. Internet. IP Protocol, IP Addresses, Datagram Forwarding. Transport Protocols (UDP, TCP). Wireless Networks and Mobile Computing.<br>
+              - Socket-based Interface. Client/Server and P2P Applications <br>
              
       - layout: top-middle
         title: eForhum Milano
