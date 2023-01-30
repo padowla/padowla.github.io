@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Samuele Padula
-title: ICT Cloud Consultant
+title: ICT Consultant
 email: job@samuelepadula.it
 website: https://samuelepadula.it
 
@@ -48,7 +48,7 @@ linkedin_username: ilucano
 # about_title: About Me
 about_profile_image: images/profile.jpg
 #about_content: | # this will include new lines to allow paragraphs
-about_content: '<p style=text-align:center;>As you can see my site reflects my IT nature: "backendist" & minimalist. I love <b>security<\b>, <b>networking<\b>, and everything the end user does not see.</p>'
+about_content: <p style=text-align:center;>'As you can see my site reflects my IT nature: "backendist" & minimalist. I love <b>security<\b>, <b>networking<\b>, and everything the end user does not see.'</p>
 content:
 #  - title: Projects # Title for the section
 #    layout: list # Type of content section (list/text)
