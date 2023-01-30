@@ -125,22 +125,22 @@ content:
         description: | # this will include new lines to allow paragraphs
           CFU: 60<br><br>
           Modules details:<br><br>
-              - Python Course<br>
-              - Data mining<br>
-              - Networking<br>
-              - Web technology<br>
-              - Applied cryptography<br>
-              - Network Securiy and Ethical hacking<br>
-              - Operating Systems Security<br>
-              - Digital Forensics<br>
-              - Cyber Intelligence<br>
-              - Complex network analysis<br>
-              - Regulations on general data protection,GDPR and cybersecurity<br>
-              - Java Fundamentals Course<br>
-              - LAB Secure System Configuration<br>
-              - LAB on DNS,DNSSEC<br>
-              - LAB on Secure Tool<br>
-              - Mobile and cloud security<br>  
+              [+] Python Course:<br>
+              [+] Data mining<br>
+              [+] Networking<br>
+              [+] Web technology<br>
+              [+] Applied cryptography<br>
+              [+] Network Securiy and Ethical hacking<br>
+              [+] Operating Systems Security<br>
+              [+] Digital Forensics<br>
+              [+] Cyber Intelligence<br>
+              [+] Complex network analysis<br>
+              [+] Regulations on general data protection,GDPR and cybersecurity<br>
+              [+] Java Fundamentals Course<br>
+              [+] LAB Secure System Configuration<br>
+              [+] LAB on DNS,DNSSEC<br>
+              [+] LAB on Secure Tool<br>
+              [+] Mobile and cloud security<br>  
       - layout: top-middle
         title: Università di Pisa
         caption: Nov 2021 - Sep 2021
