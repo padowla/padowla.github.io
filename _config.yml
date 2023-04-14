@@ -91,7 +91,7 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Design, management and maintenance of cloud and on-premises infrastructure for a leading European energy company. Azure IaaS deployment, Azure IoT, management and deployment with ARM templates, Powershell, MSSQL Server, cost and resource management, Azure Kubernetes Service and migration from RedHat OpenShif (AKS over HCI), Azure Container Registry, RabbitMQ, Managed SQL instance on Edge 
+            Design, management and maintenance of cloud and on-premises infrastructure for a leading European energy company. Azure IaaS deployment, Azure IoT, management and deployment with ARM templates, Powershell, MSSQL Server, cost and resource management, Azure Kubernetes Service and migration from RedHat OpenShift (AKS over HCI), Azure Container Registry, RabbitMQ, Managed SQL instance on Edge 
 
       - layout: left
         title: LantechLongwave s.p.a
