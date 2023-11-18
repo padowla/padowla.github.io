@@ -71,17 +71,24 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      
+      - layout: left
+        title: Innovery s.p.a
+        link: innovery.net
+        link_text: innovery.net
+        sub_title: Security Operation Center Analyst - Managed Detection and Response
+        caption: September 2023 - Current
+        description: | # this will include new lines to allow paragraphs
+            Azure Network Security project for a major European player in the steel industry: design of Azure Networking, refactoring of Active Directory environment, configuration of Azure AD Connect. Azure Sentinel and Microsoft Defender for Cloud, Apps, Identities and IoT. ADDS/AAD administration. Automatic analysis of file server share ACLs using Powershell. Security assessments of Azure Tenants/Subscriptions. Migration to Cloud of on-premises infrastructures
+      
       - layout: left
         title: iCubed s.r.l
         link: icubed.it
         link_text: icubed.it
         sub_title: ICT Consultant - Cloud Security
         caption: October 2022 - April 2023
-        #quote: >
-        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Azure Network Security project for a major European player in the steel industry: design of Azure Networking, refactoring of Active Directory environment, configuration of Azure AD Connect. Azure Sentinel and Microsoft Defender for Cloud, Apps, Identities and IoT. ADDS/AAD administration. Automatic analysis of file server share ACLs using Powershell. Security assessments of Azure Tenants/Subscriptions. Migration to Cloud of on-premises infrastructures
-      
+            Incident analysis using SIEMs such as IBM QRadar, Azure Sentinel, Crowdstrike and Splunk. <br>Analysis of phishing attacks via the Email protection solution of Proofpoint Email.      
       - layout: left
         title: iCubed s.r.l
         link: icubed.it
