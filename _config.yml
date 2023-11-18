@@ -126,13 +126,19 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: Innovery Academy Basilicata
+        caption: May 2023 - September 2023
+        sub_title: https://www.innovery.net/academy-innovery-basilicata/
+        description: | # this will include new lines to allow paragraphs
+         <a href="Course_Program_Innovery_Academy.pdf">Read the course program here!</a>    
+      - layout: top-middle
         title: Università di Pisa
-        caption: Feb 2023 - Current
+        caption: February 2023 - Current
         sub_title: First-level Master in Cybersecurity
         description: | # this will include new lines to allow paragraphs
           CFU: 60<br><br>
           Modules details:<br><br>
-              [+] Python Course:<br>
+              [+] Python Course<br>
               [+] Data mining<br>
               [+] Networking<br>
               [+] Web technology<br>
@@ -150,7 +156,7 @@ content:
               [+] Mobile and cloud security<br>  
       - layout: top-middle
         title: Università di Pisa
-        caption: Nov 2021 - Sep 2021
+        caption: November 2021 - September 2021
         sub_title: Master’s Degree in Computer Security LM-66 (Interrupted)
         description: | # this will include new lines to allow paragraphs
           Exams obtained: 3/12<br>
@@ -185,14 +191,14 @@ content:
              
       - layout: top-middle
         title: eForhum Milano
-        caption: Oct 2020 - Nov 2020
+        caption: October 2020 - November 2020
         sub_title: Cisco Networking Academy - CCNAv7
         description: | # this will include new lines to allow paragraphs
           CCNA 200- 301 Talent con percorso di certificazione offerto da Lantech Longwave 
  
       - layout: top-middle
         title: Università degli studi di Ferrara
-        caption: Sep 2017 - Sep 2020
+        caption: September 2017 - September 2020
         sub_title: Bachelor’s Degree in Computer and Electronic Engineering L-8 (Web systems)
         description: | # this will include new lines to allow paragraphs
           Evaluation: 110/110 <br> Thesis: Monitoring of an IT infrastructure by means of Open Source technologies: study and simulation
