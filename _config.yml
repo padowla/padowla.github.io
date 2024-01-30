@@ -129,7 +129,7 @@ content:
          <a href="Course_Program_Innovery_Academy.pdf">Read the course program here!</a>    
       - layout: top-middle
         title: Università di Pisa
-        caption: February 2023 - Current
+        caption: February 2023 - February 2024
         sub_title: First-level Master in Cybersecurity
         description: | # this will include new lines to allow paragraphs
           CFU: 60<br><br>
@@ -149,7 +149,8 @@ content:
               [+] LAB Secure System Configuration<br>
               [+] LAB on DNS,DNSSEC<br>
               [+] LAB on Secure Tool<br>
-              [+] Mobile and cloud security<br>  
+              [+] Mobile and cloud security<br>
+              <br> Thesis: DEMIoT, a secure microservices IoT environment <a href="Thesis_First_Level_Master_Cybersec_Unipisa.pdf">(View the thesis work)</a>
       - layout: top-middle
         title: Università di Pisa
         caption: November 2021 - September 2021
