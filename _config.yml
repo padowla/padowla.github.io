@@ -229,5 +229,6 @@ sass:
 plugins:
  - jekyll-seo-tag
  - jemoji
-
+ - jekyll-redirect-from
+ 
 theme: jekyll-theme-hacker
