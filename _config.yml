@@ -5,6 +5,11 @@ favicon: images/favicon.ico
 # Content configuration version
 version: 2
 
+layout: redirected
+sitemap: false
+permalink: /oldlocation/
+redirect_to:  https://samuelepadula.notion.site/Hi-I-m-Samuele-daf85b63904e4e3eb81defe3d09a5ad7?pvs=4
+
 # Personal info
 name: Samuele Padula
 title: Happy Hacking!
