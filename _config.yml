@@ -10,6 +10,7 @@ name: Samuele Padula
 title: Happy Hacking!
 email: job@samuelepadula.it
 website: https://samuelepadula.it
+quote: "A bad day in the mountains is always better than a good day in the city".
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -32,7 +33,7 @@ linkedin_username: ilucano
 # Additional icon links
 additional_links:
 - title: HackTheBox
-  icon: fab fa-cube
+  icon: fas fa-cube
   url: https://app.hackthebox.com/profile/107027
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -217,9 +218,9 @@ content:
 
 
 # Footer
-footer_show_references: true
-quote: > 
-  A bad day in the mountains is always better than a good day in the city.
+#footer_show_references: true
+#quote: > 
+  
 
 # Build settings
 remote_theme: sproogen/resume-theme
