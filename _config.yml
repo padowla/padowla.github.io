@@ -32,7 +32,7 @@ linkedin_username: ilucano
 # Additional icon links
 additional_links:
 - title: HackTheBox
-  icon: fa-solid fa-cube
+  icon: fa-cube
   url: https://app.hackthebox.com/profile/107027
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
