@@ -32,20 +32,14 @@ linkedin_username: ilucano
 # Additional icon links
 additional_links:
 - title: HackTheBox
-  icon: fa-cube
+  icon: fab fa-cube
   url: https://app.hackthebox.com/profile/107027
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
-
 # About Section
-# about_title: About Me
+about_title: Hello World!
 about_profile_image: images/profile.jpg
 #about_content: | # this will include new lines to allow paragraphs
 about_content: <p style='text-align:center;'>As you can see my site reflects my IT nature, <b>"backendist"</b> & <b>minimalist</b>. I love security, networking, and everything the end user does not see. But I find very boring to try to describe myself with an 'About me'.<br>Write me and let's talk.<br>Maybe with a :beer:</p> <p style='text-align:center;'><a href="Samuele_Padula_CV.pdf">Enjoy my CV!</a></p> <p style='text-align:center;'><a href="https://learn.samuelepadula.it">Hack with me</a></p> 
@@ -224,7 +218,8 @@ content:
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+quote: > 
+  A bad day in the mountains is always better than a good day in the city.
 
 # Build settings
 remote_theme: sproogen/resume-theme
