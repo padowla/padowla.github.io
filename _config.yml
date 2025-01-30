@@ -71,7 +71,19 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      
+      - layout: left
+        title: Deloitte NextHub S.r.l SB
+        link: https://www.deloitte.com
+        link_text: https://www.deloitte.com
+        sub_title: CyberSecurity Consultant - Red Team Operator
+        caption: April 2024 - Current
+        description: | # this will include new lines to allow paragraphs
+          Vulnerability Assessment<br>
+          Perform Web Application and Infrastructure Penetration Tests in a black/gray-box approach<br>
+          Golden Image Security Assessment<br>
+          Active Directory security posture testing<br>
+          Contribution to the development and improvement of security testing methodologies,tools and processes in client’s companies.
+
       - layout: left
         title: Innovery s.p.a
         link: innovery.net
