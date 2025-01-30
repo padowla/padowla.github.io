@@ -10,7 +10,6 @@ name: Samuele Padula
 title: Happy Hacking!
 email: job@samuelepadula.it
 website: https://samuelepadula.it
-quote: "A bad day in the mountains is always better than a good day in the city".
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -43,7 +42,11 @@ additional_links:
 about_title: Hello World!
 about_profile_image: images/profile.jpg
 #about_content: | # this will include new lines to allow paragraphs
-about_content: <p style='text-align:center;'>As you can see my site reflects my IT nature, <b>"backendist"</b> & <b>minimalist</b>. I love security, networking, and everything the end user does not see. But I find very boring to try to describe myself with an 'About me'.<br>Write me and let's talk.<br>Maybe with a :beer:</p> <p style='text-align:center;'><a href="Samuele_Padula_CV.pdf">Enjoy my CV!</a></p> <p style='text-align:center;'><a href="https://learn.samuelepadula.it">Hack with me</a></p> 
+about_content: |
+<p style='text-align:center;'>As you can see my site reflects my IT nature, <b>"backendist"</b> & <b>minimalist</b>. I love security, networking, and everything the end user does not see. But I find very boring to try to describe myself with an 'About me'.<br>Write me and let's talk.<br>Maybe with a :beer:</p> <p style='text-align:center;'><a href="Samuele_Padula_CV.pdf">Enjoy my CV!</a></p> <p style='text-align:center;'><a href="https://learn.samuelepadula.it">Hack with me</a></p> 
+
+![](/images/gransasso.jpeg "A bad day in the mountains is always better than a good day in the city")
+
 content:
 #  - title: Projects # Title for the section
 #    layout: list # Type of content section (list/text)
