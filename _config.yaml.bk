@@ -1,0 +1,229 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Samuele Padula
+title: Happy Hacking!
+email: job@samuelepadula.it
+website: https://samuelepadula.it
+
+# Dark Mode (true/false/never)
+darkmode: true
+
+# Social links
+#twitter_username: facespics
+github_username:  padowla
+# stackoverflow_username: "00000001"
+# flickr_username: jekyll
+# instagram_username: jameswgrant
+linkedin_username: ilucano
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+
+# Additional icon links
+additional_links:
+- title: HackTheBox
+  icon: fas fa-cube
+  url: https://app.hackthebox.com/profile/107027
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# About Section
+about_title: Hello World!
+about_profile_image: images/profile.jpg
+#about_content: | # this will include new lines to allow paragraphs
+about_content: <p style='text-align:center;'>As you can see my site reflects my IT nature, <b>"backendist"</b> & <b>minimalist</b>. I love security, networking, and everything the end user does not see. But I find very boring to try to describe myself with an 'About me'.<br>Write me and let's talk.<br>Maybe with a :beer:</p> <p style='text-align:center;'><a href="Samuele_Padula_CV.pdf">Enjoy my CV!</a></p><p style='text-align:center;'><a href="https://learn.samuelepadula.it">Hack with me</a></p>
+#  - title: Projects # Title for the section
+#    layout: list # Type of content section (list/text)
+#    content:
+#      - layout: top-middle
+#        title: Super awesome project
+#        link: github.com/sproogen
+#        # link_text: Project Website
+#        additional_links:
+#          - title:  sproogen/modern-resume-theme
+#            icon: fab fa-github
+#            url: github.com/sproogen/modern-resume-theme
+#          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#          #   icon: fab fa-github
+#          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+#        quote: >
+#          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+#        description: | # this will include new lines to allow paragraphs
+#         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    - title: Experience # Title for the section
+      layout: list # Type of content section (list/text)
+      content:
+        - layout: left
+          title: Deloitte NextHub S.r.l
+          link: https://www.deloitte.com
+          link_text: https://www.deloitte.com
+          sub_title: CyberSecurity Consultant - Red Team Operator
+          caption: April 2024 - Current
+          description: | # this will include new lines to allow paragraphs
+           Vulnerability Assessment<br>
+           Perform Web Application and Infrastructure Penetration Tests in a black/gray-box approach<br>
+           Golden Image Security Assessment<br>
+           Active Directory security posture testing<br>
+           Contribution to the development and improvement of security testing methodologies,tools and processes in client’s companies.
+        - layout: left
+          title: Innovery s.p.a
+          link: innovery.net
+          link_text: innovery.net
+          sub_title: Security Operation Center Analyst - Managed Detection and Response
+          caption: September 2023 - January 2024
+          description: | # this will include new lines to allow paragraphs
+            Incident analysis using SIEMs such as IBM QRadar, Azure Sentinel, Crowdstrike and Splunk.<br>
+            Analysis of phishing attacks via the Email protection solution of Proofpoint Email.
+        
+        - layout: left
+          title: iCubed s.r.l
+          link: icubed.it
+          link_text: icubed.it
+          sub_title: ICT Consultant - Cloud Security
+          caption: October 2022 - April 2023
+          description: | # this will include new lines to allow paragraphs
+            Azure Network Security project for a major European player in the steel industry: design of Azure Networking, refactoring of Active Directory environment, configuration of Azure AD Connect. Azure Sentinel and Microsoft Defender for Cloud, Apps, Identities and IoT. ADDS/AAD administration. Automatic analysis of file server share ACLs using Powershell. Security assessments of Azure Tenants/Subscriptions. Migration to Cloud of on-premises infrastructures
+    
+        - layout: left
+          title: iCubed s.r.l
+          link: icubed.it
+          link_text: icubed.it
+          sub_title: ICT Consultant - Cloud
+          caption: May 2021 - September 2022
+          description: | # this will include new lines to allow paragraphs
+            Design, management and maintenance of cloud and on-premises infrastructure for a leading European energy company. Azure IaaS deployment, Azure IoT, management and deployment with ARM templates, Powershell, MSSQL Server, cost and resource management, Azure Kubernetes Service and migration from RedHat OpenShift (AKS over HCI), Azure Container Registry, RabbitMQ, Managed SQL instance on Edge 
+
+        - layout: left
+          title: LantechLongwave s.p.a
+          link: https://www.lantechlongwave.it/
+          link_text: lantechlongwave.it
+          sub_title: Junior Network Engineer
+          caption: Jan 2021 - May 2021
+          description: | # this will include new lines to allow paragraphs
+            Operator of a Network Operation Center to support public and private companies. Maintenance and management of routers, switches, access points (Cisco, Aruba, HP, PaloAlto, Fortinet). Network analysis and backup, Documentation and reporting, Configuration and maintenance of Icinga, Neteye and NeDi monitoring tools for the new NOC Platform. Data integration and analysis via InfluxDB and Grafana, Unix/Linux Systems (CentOS, RedHat Enterprise)
+
+        - layout: left
+          title: Servizidoc s.r.l.s
+          link: https://www.servizidoc.com/
+          link_text: servizidoc.com
+          sub_title: IT Consultant
+          caption: Jan 2016 - Jan 2018
+          description: | # this will include new lines to allow paragraphs
+            IT operations and support. Network mainteinance and Hardware and software support
+            
+      - title: Education # Title for the section
+        layout: list # Type of content section (list/text)
+        content:
+          - layout: top-middle
+            title: Innovery Academy Basilicata
+            caption: May 2023 - September 2023
+            sub_title: https://www.innovery.net/academy-innovery-basilicata/
+            description: | # this will include new lines to allow paragraphs
+              <a href="Course_Program_Innovery_Academy.pdf">Read the course program here!</a>    
+      - layout: top-middle
+        title: Università di Pisa
+        caption: February 2023 - February 2024
+        sub_title: First-level Master in Cybersecurity
+        description: | # this will include new lines to allow paragraphs
+          CFU: 60<br><br>
+          Modules details:<br><br>
+              [+] Python Course<br>
+              [+] Data mining<br>
+              [+] Networking<br>
+              [+] Web technology<br>
+              [+] Applied cryptography<br>
+              [+] Network Securiy and Ethical hacking<br>
+              [+] Operating Systems Security<br>
+              [+] Digital Forensics<br>
+              [+] Cyber Intelligence<br>
+              [+] Complex network analysis<br>
+              [+] Regulations on general data protection,GDPR and cybersecurity<br>
+              [+] Java Fundamentals Course<br>
+              [+] LAB Secure System Configuration<br>
+              [+] LAB on DNS,DNSSEC<br>
+              [+] LAB on Secure Tool<br>
+              [+] Mobile and cloud security<br>
+              <br> Thesis: DEMIoT, a secure microservices IoT environment <a href="Thesis_First_Level_Master_Cybersec_Unipisa.pdf">(View the thesis work)</a>
+      - layout: top-middle
+        title: Università di Pisa
+        caption: November 2021 - September 2021
+        sub_title: Master’s Degree in Computer Security LM-66 (Interrupted)
+        description: | # this will include new lines to allow paragraphs
+          Exams obtained: 3/12<br>
+          CFU achieved: 30/120<br><br>
+          Exams details:<br><br>
+            [+] Data and system security:<br>
+              - elements of computer security (threats, attacks, security requirements and defense strategies) <br>
+              - elements of authentication and access control<br>
+              - security in databases and datacenters <br>
+              - attacks (malware, buffer overflow, denial of service,...)<br>
+              - operative systems security (virtualization, case studies Linux, Windows, Android)<br>
+              - security in mobile and cyber-physical systems<br>
+              - aspects of management of computer security<br><br>
+            [+] Language-based technology for security:<br>
+              - Memory corruption flaws: buffer overflow, stack overflow, code injection <br>
+              - Language-based Security: Java stack inspection and access control, certified compilation, typed assembler languace, code obfuscation<br>
+              - Language-based Security Lab <br>
+              - Information flow security: integrity, confidentiality, hidden channels. Type-based information flow<br>
+              - Information flow security Lab: JSflow <br>
+              - Security in Web Application <br>
+              - Formal methods for Security: type systems and static analysis<br>
+              - Formal Method for security Lab<br><br> 
+            [+] Systems and Languages for Informatics:<br>
+              - Introduction to principles of programming languages;
+              - Introduction to problem solving;
+              - Introduction to program complexity.
+              - Constructs, functions, data structures and pointers in C
+              - Posix library and PThread
+              - Computer Organization. Interrupt Mechanism. Assembly Language. Operating System Organization. Processes and Process Management. Memory Management, Virtual Memory. I/O Management. File System. Databases. DBMS. SQL Language.<br>
+              - Point-to Point links. PPP Protocol. Local Area Networks (LANs). Ethernet. Switched Networks. Virtual LANs. Internet. IP Protocol, IP Addresses, Datagram Forwarding. Transport Protocols (UDP, TCP). Wireless Networks and Mobile Computing.<br>
+              - Socket-based Interface. Client/Server and P2P Applications <br>
+             
+      - layout: top-middle
+        title: eForhum Milano
+        caption: October 2020 - November 2020
+        sub_title: Cisco Networking Academy - CCNAv7
+        description: | # this will include new lines to allow paragraphs
+          CCNA 200- 301 Talent con percorso di certificazione offerto da Lantech Longwave 
+ 
+      - layout: top-middle
+        title: Università degli studi di Ferrara
+        caption: September 2017 - September 2020
+        sub_title: Bachelor’s Degree in Computer and Electronic Engineering L-8 (Web systems)
+        description: | # this will include new lines to allow paragraphs
+          Evaluation: 110/110 <br> Thesis: Monitoring of an IT infrastructure by means of Open Source technologies: study and simulation <a href="Thesis_Bachelor_Degree_Uniferrara_2020.pdf">(View the thesis work)</a>
+
+
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks, security and computer engineering some of my other interests and hobbies are:
+      - Bouldering, Trekking and bushcraft
+      - <a href="https://www.magazzinisociali.com">Volunteering</a>
+      - DIY and handmade
+
+
+# Footer
+#footer_show_references: true
+#quote: > 
+  
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-redirect-from
+ 
+theme: jekyll-theme-hacker
