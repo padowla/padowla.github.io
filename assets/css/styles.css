@@ -1,40 +1,16 @@
+/* CSS per rendere l'immagine rotonda */
+.profile-image {
+    width: 100px;      /* Imposta una larghezza specifica */
+    height: 100px;     /* Imposta una altezza specifica */
+    border-radius: 50%; /* Rende l'immagine rotonda */
+    object-fit: cover;  /* Assicura che l'immagine copra tutta la zona senza distorsioni */
+    position: absolute; /* Posiziona l'immagine */
+    top: 20px;         /* Distanza dalla parte superiore */
+    left: 20px;        /* Distanza dal lato sinistro */
+}
+
+/* Aggiungi un po' di margine alla pagina per evitare che l'immagine si sovrapponga ai bordi */
 body {
-    background-color: #0d0d0d;
-    color: #00ff00;
-    font-family: 'Courier New', Courier, monospace;
-    text-align: center;
-    margin: 0;
-    padding: 0;
-}
-
-header {
-    background-color: #000;
-    padding: 20px;
-}
-
-h1, h2, h3 {
-    color: #00ff00;
-}
-
-a {
-    color: #ffcc00;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
-section {
-    margin: 20px;
-    padding: 20px;
-    border: 1px solid #00ff00;
-    background-color: #111;
-    border-radius: 10px;
-}
-
-footer {
-    margin-top: 20px;
-    padding: 10px;
-    background-color: #000;
+    margin-top: 120px;
+    margin-left: 120px;
 }
