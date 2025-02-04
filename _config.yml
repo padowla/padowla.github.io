@@ -17,17 +17,12 @@ darkmode: true
 # Social links
 #twitter_username: facespics
 github_username:  padowla
-# stackoverflow_username: "00000001
-# dribbble_username: jekyll
-# facebook_username: jekyll
+# stackoverflow_username: "00000001"
 # flickr_username: jekyll
 # instagram_username: jameswgrant
 linkedin_username: ilucano
-# xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
@@ -61,67 +56,67 @@ about_content: <p style='text-align:center;'>As you can see my site reflects my 
 #          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
 #        description: | # this will include new lines to allow paragraphs
 #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Deloitte NextHub S.r.l
-        link: https://www.deloitte.com
-        link_text: https://www.deloitte.com
-        sub_title: CyberSecurity Consultant - Red Team Operator
-        caption: April 2024 - Current
-        description: | # this will include new lines to allow paragraphs
-          Vulnerability Assessment<br>
-          Perform Web Application and Infrastructure Penetration Tests in a black/gray-box approach<br>
-          Golden Image Security Assessment<br>
-          Active Directory security posture testing<br>
-          Contribution to the development and improvement of security testing methodologies,tools and processes in client’s companies.
+- title: Experience # Title for the section
+  layout: list # Type of content section (list/text)
+  content:
+    - layout: left
+      title: Deloitte NextHub S.r.l
+      link: https://www.deloitte.com
+      link_text: https://www.deloitte.com
+      sub_title: CyberSecurity Consultant - Red Team Operator
+      caption: April 2024 - Current
+      description: | # this will include new lines to allow paragraphs
+        Vulnerability Assessment<br>
+        Perform Web Application and Infrastructure Penetration Tests in a black/gray-box approach<br>
+        Golden Image Security Assessment<br>
+        Active Directory security posture testing<br>
+        Contribution to the development and improvement of security testing methodologies,tools and processes in client’s companies.
 
-      - layout: left
-        title: Innovery s.p.a
-        link: innovery.net
-        link_text: innovery.net
-        sub_title: Security Operation Center Analyst - Managed Detection and Response
-        caption: September 2023 - January 2024
-        description: | # this will include new lines to allow paragraphs
-          Incident analysis using SIEMs such as IBM QRadar, Azure Sentinel, Crowdstrike and Splunk.<br>
-          Analysis of phishing attacks via the Email protection solution of Proofpoint Email.
-          
-      - layout: left
-        title: iCubed s.r.l
-        link: icubed.it
-        link_text: icubed.it
-        sub_title: ICT Consultant - Cloud Security
-        caption: October 2022 - April 2023
-        description: | # this will include new lines to allow paragraphs
-            Azure Network Security project for a major European player in the steel industry: design of Azure Networking, refactoring of Active Directory environment, configuration of Azure AD Connect. Azure Sentinel and Microsoft Defender for Cloud, Apps, Identities and IoT. ADDS/AAD administration. Automatic analysis of file server share ACLs using Powershell. Security assessments of Azure Tenants/Subscriptions. Migration to Cloud of on-premises infrastructures
-      
-      - layout: left
-        title: iCubed s.r.l
-        link: icubed.it
-        link_text: icubed.it
-        sub_title: ICT Consultant - Cloud
-        caption: May 2021 - September 2022
-        description: | # this will include new lines to allow paragraphs
-            Design, management and maintenance of cloud and on-premises infrastructure for a leading European energy company. Azure IaaS deployment, Azure IoT, management and deployment with ARM templates, Powershell, MSSQL Server, cost and resource management, Azure Kubernetes Service and migration from RedHat OpenShift (AKS over HCI), Azure Container Registry, RabbitMQ, Managed SQL instance on Edge 
+    - layout: left
+      title: Innovery s.p.a
+      link: innovery.net
+      link_text: innovery.net
+      sub_title: Security Operation Center Analyst - Managed Detection and Response
+      caption: September 2023 - January 2024
+      description: | # this will include new lines to allow paragraphs
+        Incident analysis using SIEMs such as IBM QRadar, Azure Sentinel, Crowdstrike and Splunk.<br>
+        Analysis of phishing attacks via the Email protection solution of Proofpoint Email.
+        
+    - layout: left
+      title: iCubed s.r.l
+      link: icubed.it
+      link_text: icubed.it
+      sub_title: ICT Consultant - Cloud Security
+      caption: October 2022 - April 2023
+      description: | # this will include new lines to allow paragraphs
+          Azure Network Security project for a major European player in the steel industry: design of Azure Networking, refactoring of Active Directory environment, configuration of Azure AD Connect. Azure Sentinel and Microsoft Defender for Cloud, Apps, Identities and IoT. ADDS/AAD administration. Automatic analysis of file server share ACLs using Powershell. Security assessments of Azure Tenants/Subscriptions. Migration to Cloud of on-premises infrastructures
+    
+    - layout: left
+      title: iCubed s.r.l
+      link: icubed.it
+      link_text: icubed.it
+      sub_title: ICT Consultant - Cloud
+      caption: May 2021 - September 2022
+      description: | # this will include new lines to allow paragraphs
+          Design, management and maintenance of cloud and on-premises infrastructure for a leading European energy company. Azure IaaS deployment, Azure IoT, management and deployment with ARM templates, Powershell, MSSQL Server, cost and resource management, Azure Kubernetes Service and migration from RedHat OpenShift (AKS over HCI), Azure Container Registry, RabbitMQ, Managed SQL instance on Edge 
 
-      - layout: left
-        title: LantechLongwave s.p.a
-        link: https://www.lantechlongwave.it/
-        link_text: lantechlongwave.it
-        sub_title: Junior Network Engineer
-        caption: Jan 2021 - May 2021
-        description: | # this will include new lines to allow paragraphs
-            Operator of a Network Operation Center to support public and private companies. Maintenance and management of routers, switches, access points (Cisco, Aruba, HP, PaloAlto, Fortinet). Network analysis and backup, Documentation and reporting, Configuration and maintenance of Icinga, Neteye and NeDi monitoring tools for the new NOC Platform. Data integration and analysis via InfluxDB and Grafana, Unix/Linux Systems (CentOS, RedHat Enterprise)
- 
-      - layout: left
-        title: Servizidoc s.r.l.s
-        link: https://www.servizidoc.com/
-        link_text: servizidoc.com
-        sub_title: IT Consultant
-        caption: Jan 2016 - Jan 2018
-        description: | # this will include new lines to allow paragraphs
-            IT operations and support. Network mainteinance and Hardware and software support
+    - layout: left
+      title: LantechLongwave s.p.a
+      link: https://www.lantechlongwave.it/
+      link_text: lantechlongwave.it
+      sub_title: Junior Network Engineer
+      caption: Jan 2021 - May 2021
+      description: | # this will include new lines to allow paragraphs
+          Operator of a Network Operation Center to support public and private companies. Maintenance and management of routers, switches, access points (Cisco, Aruba, HP, PaloAlto, Fortinet). Network analysis and backup, Documentation and reporting, Configuration and maintenance of Icinga, Neteye and NeDi monitoring tools for the new NOC Platform. Data integration and analysis via InfluxDB and Grafana, Unix/Linux Systems (CentOS, RedHat Enterprise)
+
+    - layout: left
+      title: Servizidoc s.r.l.s
+      link: https://www.servizidoc.com/
+      link_text: servizidoc.com
+      sub_title: IT Consultant
+      caption: Jan 2016 - Jan 2018
+      description: | # this will include new lines to allow paragraphs
+          IT operations and support. Network mainteinance and Hardware and software support
             
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -228,8 +223,8 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
- - jemoji
- - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-redirect-from
  
 theme: jekyll-theme-hacker
