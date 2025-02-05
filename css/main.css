@@ -868,7 +868,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .pull-quote:before, .pull-quote:after {
 	height: 1em;
 	position: absolute;
-	font-size: 8rem;
+	font-size: 4rem;
 	font-family: Arial, Sans-Serif;
 	color: #333;
 }
