@@ -1634,6 +1634,12 @@ header .logo a {
 	color: #FF0077;
 }
 
+#resume .resume-header h2 i {
+    font-size: 1.4rem;  /* Reduce icon size */
+    margin-right: 8px;  /* Adds space between icon and text */
+    vertical-align: middle; /* Align the icon better with the text */
+}
+
 #resume .resume-timeline {
 	max-width: 980px;
 }
