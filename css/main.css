@@ -1503,6 +1503,7 @@ header .logo a {
 	margin-right: -30px;
 	margin-left: -30px
 }
+/*
 .intro-info img {
 	height: 20rem;
 	width: 20rem;
@@ -1510,6 +1511,17 @@ header .logo a {
 	margin: 0rem 5 0 50;
 	float: left;
 	margin-right: 30px;
+}
+*/
+/* Aggiornamento dello stile per adattare completamente l'immagine nel cerchio */
+.intro-info img {
+    height: 20rem;
+    width: 20rem;
+    border-radius: 50%;
+    object-fit: contain; /* Modifica da cover a contain per evitare il taglio */
+    margin: 0rem 5px 0 50px;
+    float: left;
+    margin-right: 30px;
 }
 .intro-info .lead {
 	text-align: left;
